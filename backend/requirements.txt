@@ -1,0 +1,46 @@
+fastapi
+uvicorn
+
+# Configuration
+python-dotenv
+
+# Validation
+pydantic
+email-validator
+
+# LLM
+openai
+langchain
+langchain-core
+langchain-openai
+langgraph
+tiktoken
+
+# Database
+sqlalchemy
+
+# Authentication
+passlib[bcrypt]
+bcrypt
+python-jose[cryptography]
+
+# Vector Database
+chromadb
+sentence-transformers
+
+# HTTP
+httpx
+requests
+
+# HTML Parsing
+beautifulsoup4
+lxml
+
+# Location
+geopy
+
+# Rate Limiting
+slowapi
+
+# Multipart/Form Data
+python-multipart
